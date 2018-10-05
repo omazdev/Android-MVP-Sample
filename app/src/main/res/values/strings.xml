@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FlickrFacebookMVP</string>
+
+    <string name="login_error">Sorry, There was an error !</string>
+    <string name="login_cancel_error">Login was canceled !</string>
+
+    <string name="search_title">Enter tags separated with commas then click Search!</string>
+    <string name="Search_hint" >Enter your text</string>
+    <string name="search_button">SEARCH</string>
+    <string name="search_tags_error">Please enter valid tags</string>
+    <string name="search_photos_max_limit">Sorry, no more photos to show!</string>
+    <string name="search_api_response_error">Sorry, there was an error in the Flickr response!</string>
+    <string name="search_api_endpoint_error">Sorry, there was an error when calling the Flickr search endpoint!</string>
+
+    <string name="save_photo_success">Saved!!</string>
+    <string name="save_photo_failure">Sorry, the photo was not saved!</string>
+
+    <string name="view_liked_button">View favorite photos</string>
+    <string name="show_saved_no_elements">NO PHOTOS ARE SAVED</string>
+    <string name="delete_photo_success">Deleted!</string>
+    <string name="delete_photo_failure">Sorry, the photo was not deleted!</string>
+    <string name="share_msg">Hey! Checkout this amazing Photo!</string>
+
+</resources>

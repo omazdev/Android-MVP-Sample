@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/logout"
+        android:contentDescription="@string/com_facebook_loginview_log_out_action"
+        android:icon="@drawable/com_facebook_close"
+        android:title="@string/com_facebook_loginview_log_out_action"
+        app:showAsAction="always" />
+</menu>
